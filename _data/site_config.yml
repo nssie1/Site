@@ -238,8 +238,8 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://nssie1.github.io/Data/'
-repository_url_site: 'https://nssie1.github.io/Data/'
+repository_url_data: 'https://github.com/nssie1/Data/'
+repository_url_site: 'https://github.com/nssie1/Site/'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
